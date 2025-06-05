@@ -17,3 +17,7 @@ https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tav
 ## Day 3: June 4th:
 - started with cad. im using 125mm stroke, 25mm bore pneumatic cylinders. the red thing is arms
 ![image](https://github.com/user-attachments/assets/4309e219-1ad6-4e51-971a-c4817f195d8a)
+
+### Day 4: June 5th:
+- done with main arm mechanic. did some finishing touches. this looks good enough ig. now i need to make the mount for the arms and stuff. i think ball socket joint would be fine.
+![image](https://github.com/user-attachments/assets/4124349a-695d-4f1a-84e1-51ba45b29326)
