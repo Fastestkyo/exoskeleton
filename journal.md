@@ -26,3 +26,4 @@ https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tav
 ### Day 5: June 13th:
 - couldnt do more work cuz school and i was sick. done with most of the leg stuff. im gonna add 2 pnuewmatic cylinder for each leg.
 ![image](https://github.com/user-attachments/assets/2489e252-c76f-4aac-a88c-be1defbd5615)
+![image](https://github.com/user-attachments/assets/3406c444-4f33-409f-9863-8996bdb13f16)
