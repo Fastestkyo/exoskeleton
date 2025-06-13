@@ -22,3 +22,7 @@ https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tav
 - done with main arm mechanic. did some finishing touches. this looks good enough ig. now i need to make the mount for the arms and stuff. im gonna use a tie rod end thing with a bolt. kinda like hacksmith's elysium exoskeleton.
 ![image](https://github.com/user-attachments/assets/a112a412-093d-4c60-b98d-025871c9aaef)
 ![image](https://github.com/user-attachments/assets/4124349a-695d-4f1a-84e1-51ba45b29326)
+
+### Day 5: June 13th:
+- couldnt do more work cuz school and i was sick. done with most of the leg stuff. im gonna add 2 pnuewmatic cylinder for each leg.
+![image](https://github.com/user-attachments/assets/2489e252-c76f-4aac-a88c-be1defbd5615)
