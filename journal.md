@@ -27,3 +27,8 @@ https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tav
 - couldnt do more work cuz school and i was sick. done with most of the leg stuff. im gonna add 2 pnuewmatic cylinder for each leg.
 ![image](https://github.com/user-attachments/assets/2489e252-c76f-4aac-a88c-be1defbd5615)
 ![image](https://github.com/user-attachments/assets/3406c444-4f33-409f-9863-8996bdb13f16)
+
+### Day 5: June 27th:
+- not alot of work done cuz of school but im finally done!!! so the leg exoskeleton will have linear actuators. and the arms will have penumatic cylinders.
+![image](https://github.com/user-attachments/assets/61385899-a494-4da2-aa56-21619254c280)
+![image](https://github.com/user-attachments/assets/8f75c001-1fd6-44a5-b4da-7d85fb33dba5)
