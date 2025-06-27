@@ -9,10 +9,10 @@ the arm design is kinda based on hacksmiths exoskeleton. i will be using AKARI B
 
 ![image](https://github.com/user-attachments/assets/d1221480-946b-4dcb-ac57-0f07d9ad3005)
 - as said before, using pneumatic cylinders. it will be a welded frame (smaw), with straps attached (kinda like hacksmiths). it will be abt to lift 60kgs theoretically. the arms will be attached to a big screw, using the hacksmith design thingey again. im using pneumatic cylinders because they are strong, and fast.
-- 
+
 ![image](https://github.com/user-attachments/assets/5588ece2-8c7b-44e5-beec-597e8a38c27b)
 - the pneumatic cylinders will be attached like this. btw i couldnt find an accurate model of the thing im going to order so this instead.
-- 
+
 ![image](https://github.com/user-attachments/assets/7b865bce-d288-4e70-a80d-ce58a4f734df)
 - will be using a 5/2 12v solenoid valve to control this
 https://www.youtube.com/shorts/6g6MvkLeg5k
@@ -23,9 +23,9 @@ https://www.youtube.com/watch?v=iXNNjtK5hp8
 - using linear actuator 12v, 125mm stroke. this is ideal for legs cuz leg movements are slow, ie walking up the stairs. this will assist ppl. using arduino for this. also using a IBT-2 (BTS7960) Dual H-Bridge Driver for this.
 https://www.youtube.com/watch?v=TJb4LNYR1IA
 - the legs are make up of 3 joints-
-- 
+
 ![image](https://github.com/user-attachments/assets/12ff2fa3-5128-4480-a4c8-8ca16443fedb)
 - the actuators are mounted like this-
-- 
+
 ![image](https://github.com/user-attachments/assets/bdac22cd-719a-4df5-a62c-3672e10ac709)
 
