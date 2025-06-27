@@ -29,6 +29,6 @@ https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tav
 ![image](https://github.com/user-attachments/assets/3406c444-4f33-409f-9863-8996bdb13f16)
 
 ### Day 5: June 27th:
-- not alot of work done cuz of school but im finally done!!! so the leg exoskeleton will have linear actuators. and the arms will have penumatic cylinders.
+- not alot of work done cuz of school but im finally done!!! so the leg exoskeleton will have linear actuators. and the arms will have penumatic cylinders. i used pneumatic cylinders in the 3d model for the legs cuz i couldnt find any good 3d models for the linear actuator.
 ![image](https://github.com/user-attachments/assets/61385899-a494-4da2-aa56-21619254c280)
 ![image](https://github.com/user-attachments/assets/8f75c001-1fd6-44a5-b4da-7d85fb33dba5)
