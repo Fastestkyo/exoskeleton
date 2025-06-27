@@ -2,6 +2,11 @@
 i want to make an exoskeleton for legs assist and arms strength. ive always wanted to build an exoskeleton cuz they look so cool.
 i will be using pneumatic cylinders for arms, and linear actuators for legs. 
 
+-[BOM](https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tavQhg/edit?usp=sharing)
+-[LEGS CAD](https://a360.co/3I41hVo)
+-[ARMS CAD](https://a360.co/40tz9Bn)
+-[ARMS AND LEGS CAD](https://a360.co/4evxjGg)
+
 ![image](https://github.com/user-attachments/assets/cc1418e3-cad0-4533-a4bc-5b1a87c4ac63)
 the arm design is kinda based on hacksmiths exoskeleton. i will be using AKARI Bore 50 mm x Stroke 125 mm SC Series Double Acting Non Magnetic Cylinder for the arms, and 12v 125mm linear actuator for the legs. the arms will be able to lift about 60kgs, the linear actuators will be of 1500N = ~10kg.
 
