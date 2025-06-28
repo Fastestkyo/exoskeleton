@@ -8,7 +8,7 @@ time: "20 hours"
 # JOURNAL
 
 ## Day 1: June 2nd (3 hours):
--completed bom! gonna make this responsive. leg and arms under 350$? 
+-completed bom! gonna make this responsive. leg and arms under 350$? possible. the total bom comes to around 409 dollars.
 https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tavQhg/edit?usp=sharing
 ![image](https://github.com/user-attachments/assets/17e4112a-057d-4861-abb2-e3e8922c6a71)
 
