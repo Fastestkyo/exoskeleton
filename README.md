@@ -34,3 +34,7 @@ https://www.youtube.com/watch?v=TJb4LNYR1IA
 
 ![image](https://github.com/user-attachments/assets/bdac22cd-719a-4df5-a62c-3672e10ac709)
 
+i have prior welding expirience as i welded my 3d printer frame
+![image](https://github.com/user-attachments/assets/36f43ff5-0100-46d6-9c65-d864453aeda2)
+
+
