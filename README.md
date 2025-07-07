@@ -37,4 +37,6 @@ https://www.youtube.com/watch?v=TJb4LNYR1IA
 i have prior welding expirience as i welded my 3d printer frame
 ![image](https://github.com/user-attachments/assets/36f43ff5-0100-46d6-9c65-d864453aeda2)
 
+# [BOM](https://docs.google.com/spreadsheets/d/10XigN096NJHvW7nxLyGELot7_vH0Ojs5yY065tavQhg/edit?usp=sharing)
+![image](https://github.com/user-attachments/assets/aec47c07-c125-4cfc-9970-a62c8c9f8911)
 
